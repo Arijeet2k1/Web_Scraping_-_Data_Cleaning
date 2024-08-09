@@ -19,5 +19,5 @@ This file contains the raw dataset from web scraping
 This file contains a cleaned dataset
 - **Click Here**:- [Cleaned Data](https://github.com/Arijeet2k1/Web_Scraping_Data_Cleaning/blob/main/Companies.csv)
 
-This file contains a sample image for comparison betwwen Dirty Data and Cleaned Data making it easy for everyone to understand.
+This file contains a sample image for comparison between Dirty Data and Cleaned Data making it easy for everyone to understand.
 - **Click Here**:- [Sample Img](https://github.com/Arijeet2k1/Web_Scraping_and_Data_Cleaning/blob/main/Cleaned_Data_img.jpg)
